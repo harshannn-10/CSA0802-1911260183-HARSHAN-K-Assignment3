@@ -5,10 +5,10 @@
 **Course:** CSA08 – Python Programming  
 **Topic:** Python data structures — lists, tuples, dictionaries, sets, copying and comprehensions.
 
-## Contents
+## Assignment files
 
-- `AT3_CO3.rar` — task-wise Python source archive supplied for this assignment (Tasks 01–07).
-- `AT3_Final_Report.pdf` — final assignment report with task explanations and execution evidence.
+- `AT3_CO3.rar` — task-wise Python source archive (Tasks 01–07).
+- `AT3_CLEAN_REPORT_HarshanK_1911260183(1).pdf` — final report with task explanations and execution evidence.
 
 ## Tasks
 
@@ -20,21 +20,23 @@
 6. Nested dictionaries and sets for railway timetable queries.
 7. Contact merging using normalised phone numbers.
 
-## Running the programs
+## Run the programs
 
-1. Download and extract `AT3_CO3.rar` using an archive utility such as 7-Zip or WinRAR.
+1. Download and extract `AT3_CO3.rar` using 7-Zip or WinRAR.
 2. Open the extracted `AT3_CO3` folder in Visual Studio Code.
-3. Run each task's `.py` file with Python 3:
+3. Run each task's Python file with Python 3. For example:
 
 ```bash
 python Task01/task01_rainfall.py
 ```
 
-Use the corresponding task folder and filename for Tasks 02–07.
+Run the corresponding `.py` file inside each of the Task02–Task07 folders for the remaining tasks.
 
-## Report
+## Final report
 
-Open [AT3 Final Report](AT3_Final_Report.pdf) to view the submitted report.
+After the PDF is uploaded to the repository, open it here:
+
+[Download the AT3 Final Report](AT3_CLEAN_REPORT_HarshanK_1911260183(1).pdf)
 
 ---
 Prepared by Harshan K | 1911260183
