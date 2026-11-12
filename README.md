@@ -1,42 +1,45 @@
-# AT3 – CO3 Python Programming Assignment
+# AT3 — CO3 Python Programming Assignment
 
 **Student:** Harshan K  
 **Register Number:** 1911260183  
-**Course:** CSA08 – Python Programming  
-**Topic:** Python data structures — lists, tuples, dictionaries, sets, copying and comprehensions.
+**Course:** CSA08 — Python Programming  
+**Assignment:** AT3 — CO3
 
-## Assignment files
+## GitHub repository
 
-- `AT3_CO3.rar` — task-wise Python source archive (Tasks 01–07).
-- `AT3_CLEAN_REPORT_HarshanK_1911260183(1).pdf` — final report with task explanations and execution evidence.
+This is the AT3 repository only. It is separate from the student's other assignment repositories.
 
-## Tasks
+**Repository URL:** https://github.com/harshannn-10/CSA0802-1911260183-HARSHAN-K-Assignment3
 
-1. Daily rainfall records using lists, slicing and moving averages.
+## Assignment topics
+
+1. Lists, slicing and rainfall moving averages.
 2. Tuples, mutability, copying and independent grids.
-3. Dictionary-based farmer helpline complaint analysis.
-4. Set operations for elective clash detection.
-5. List comprehensions for sensor-data cleaning.
-6. Nested dictionaries and sets for railway timetable queries.
+3. Dictionaries and farmer helpline complaint analysis.
+4. Sets and elective clash detection.
+5. List comprehensions and sensor-data cleaning.
+6. Nested dictionaries/sets and railway timetable queries.
 7. Contact merging using normalised phone numbers.
 
-## Run the programs
+## Running the Python tasks
 
-1. Download and extract `AT3_CO3.rar` using 7-Zip or WinRAR.
-2. Open the extracted `AT3_CO3` folder in Visual Studio Code.
-3. Run each task's Python file with Python 3. For example:
+Use Python 3. Open the relevant task folder in Visual Studio Code and run its `.py` file from the terminal:
 
 ```bash
-python Task01/task01_rainfall.py
+python filename.py
 ```
 
-Run the corresponding `.py` file inside each of the Task02–Task07 folders for the remaining tasks.
+## Report
 
-## Final report
+The AT3 report with task explanations and the available execution evidence is attached separately in this ChatGPT conversation as:
 
-After the PDF is uploaded to the repository, open it here:
+`AT3_HarshanK_1911260183_Report_with_GitHub_Link.pdf`
 
-[Download the AT3 Final Report](AT3_CLEAN_REPORT_HarshanK_1911260183(1).pdf)
+The report contains a clickable link back to this repository.
+
+## Repository upload status
+
+At the time of this update, the repository contains this README only. The Python archive and PDF have **not** been uploaded to GitHub yet, so no broken file-download links are shown here. Add the original AT3 `.rar` archive and the final PDF to the repository to make them downloadable directly from GitHub.
 
 ---
 Prepared by Harshan K | 1911260183
